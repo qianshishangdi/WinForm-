@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundWorker", "ConsoleApp1\BackGroundWorker.csproj", "{09719578-B17E-4850-9A49-CDD321EFAD3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolStrip", "ToolStrip\ToolStrip.csproj", "{7C347D42-AB68-4BE1-9280-27173DDCC189}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{09719578-B17E-4850-9A49-CDD321EFAD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09719578-B17E-4850-9A49-CDD321EFAD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09719578-B17E-4850-9A49-CDD321EFAD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C347D42-AB68-4BE1-9280-27173DDCC189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C347D42-AB68-4BE1-9280-27173DDCC189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C347D42-AB68-4BE1-9280-27173DDCC189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C347D42-AB68-4BE1-9280-27173DDCC189}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
